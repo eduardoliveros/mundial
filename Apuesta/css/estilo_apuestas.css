@@ -1,0 +1,333 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+@font-face {font-family:"Helvetica 55 Roman"; src:url('fonts/HelveticaNeue-Bold.otf') format("truetype"); }
+@font-face {font-family:"Helvetica 35 Thin"; src:url('fonts/HelveticaNeue-Thin.otf') format("truetype"); }
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+.tamanoProductos{
+    height: 164px;
+    width: 374px;
+    position: relative;
+    top: -40px;
+    left: 20px;
+}
+#mensajeApuesta{
+    position: absolute;
+    top: 313px;
+    left: 306px;
+    border: 3px solid #062b48;
+    background-color: white;
+    height: 385px;
+    width: 660px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+}
+.mainmsn{
+    font-size: 40px;
+    color: #062b48;
+}
+.botonRegistro{
+    position: relative;
+    left: -130px;
+    top: 25px;
+}
+.botonSalir{
+    position: relative;
+    left: 155px;
+    top: -35px;    
+}
+#exitBut{
+    width: 140px;
+    height: 53px;
+    font-size: 15px;
+}
+#regBut{
+    width: 169px;
+    height: 53px;
+    font-size: 15px;
+}
+.msn{
+    font-size: 30px;
+    color: #062b48;
+    margin-left: 10px;
+}
+button
+{
+    
+    background-image: url('../image/4545.png');
+    background-color: transparent;
+    background-repeat:round;
+    height: auto;
+    background-size: 100%;
+   font-family: "Helvetica 55 Roman", sans-serif;
+   color: white;
+   border: none;
+   padding: 6px;
+   padding-left: 11px;
+   margin-top: 9px;
+   padding-right: 9px;
+font-size: 1.3em;
+}
+.title{
+    font-family:  Arial, Helvetica, sans-serif;
+    line-height: 4.1;
+    text-align: center;
+    font-weight: bold;
+}
+.registro p{
+    font-family:"Helvetica 55 Roman", sans-serif;
+    font-size: 1.7em;
+}
+body {
+	background-color: rgb(198,232,200);
+        font-family:"Helvetica 55 Roman", sans-serif;
+}
+.imgtrau{
+    width: 47%;
+    display:inline-block;
+    
+}
+.bloquehead{
+    position: absolute;
+}
+.bloqueTrau{
+    width: 16%;
+    position: absolute;
+    top: 60px;
+    left: 1029px;
+}
+.imgBanderas{
+    width: 53px;
+}
+.bandera1{
+    position: relative;
+    top:-135px;
+    left: 25px;
+
+}
+.dimensionBandera{
+    height: 42px;
+    width: 39px;
+}
+.bandera2{
+    position: relative;
+    top: -177px;
+    left: 80px;
+}
+.bandera3{
+    position: relative;
+    top: -220px;
+    left: 135px;
+}
+.espacio1{
+    position: relative;
+    top: -216px;
+    left: 79px;
+}
+.espacio2{
+    position: relative;
+    top: -257px;
+    left: 131px;
+}
+.bandera4{
+    position: relative;
+    top: -263px;
+    left: 189px;
+}
+.imgCajaApuesta{
+    width: 138px;
+    margin-left: 55px;
+    margin-top: 40px;
+}
+.primerosGrupos{
+    position: absolute;
+    top: 350px;
+}
+.ultimosGrupos{
+    position: absolute;
+    top: 650px;
+}
+.textoPregunta{
+    position: absolute;
+    width: 60%;
+    left: 20px;
+}
+.grupoA{
+    position: absolute;
+    left: 30px;
+    height: 300px;
+}
+.grupoB{
+    position: absolute;
+    left: 330px;
+    height: 300px;
+}
+.grupoC{
+    position: absolute;
+    left: 630px;
+    height: 300px;
+}
+.grupoD{
+    position: absolute;
+    left: 930px;
+    height: 300px;
+}
+.imgGrupo{
+    width: 170px;
+    margin-left: 40px;
+}
+.imgCajaPartidos{
+    width: 255px;
+}
+.divPregunta{
+    position: absolute;
+    z-index: 4;
+    top: 165px;
+    left: 262px;
+}
+.imagenpregunta{
+    width: 63%;
+}
+.botonenviar{
+    bottom: 85px;
+    position: absolute;
+    left: 44%;
+}
+.espacio{
+    height:10%;
+}
+.pand
+{
+    width: 5%;
+    display:inline-block;
+}
+.Trau{
+   background-color:rgba(255,255,255,0.7);
+   width: 100%;
+   height:10%;
+   margin-top: 7%;
+display: -webkit-inline-box;
+text-align: -webkit-right;
+}
+.bloque0{
+    height: 100%;
+    width: 100%
+}
+.imgbloque0{
+    height: 7%;
+    width: 100%
+}
+.polla{
+    position: absolute;
+    top: 104px;
+    z-index: 20;
+}
+.imgpolla{
+    width: 29%;
+    
+}
+.bloque1{
+    background-color: white;
+    background-image: url('../image/1549.png');
+    background-size: 100%;
+    position: absolute;
+    width: 100%;
+    height: 1050px;
+    z-index: -1;
+}
+span{
+    font-weight: bold;
+}
+.premioContent{
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 2%;
+}
+.mecanica{
+    width: 40%;
+    padding-left: 70px;
+    padding-right: 40px;
+    float: left;
+    margin-top: 5%;
+}
+.imgpremio{
+    width: 70%;
+    margin-top: 5%;
+}
+.politica{
+    width: 40%;
+    padding-left: 1%;
+    float: right;
+    margin-top: 5%;
+    padding-right: 5%;
+    margin-bottom: 10%;
+}
+.bloque2{
+   background-color: rgb(25,36,67);
+    
+}
+.registro{
+    width: 48%;
+    display: inline-block;
+    margin-top: 5%;
+    margin-bottom: 8%;
+    padding-top: 12%;
+    padding-bottom: 19%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+}
+.borde{
+    border-right: 2px solid rgba(255,255,255,0.5);
+}
+.terms{
+    
+}
+.pie
+{
+    position: absolute;
+    bottom: 0px;
+    left: 40px;
+}
+.pieLogo
+{
+    width: 14%;
+    position: relative
+}
+.leftPieLogo
+{
+    left: -14%;
+   
+}
+.pie2
+{
+  position:absolute;
+  left:1150px;
+  top:1750px;
+}
+.pieLogo2
+{
+    width: 70%;
+   
+}
+.leftPieLogo2
+{
+    position: absolute;
+    
+   
+}
+.terminos
+{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,314 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+    
+
+}
+@font-face {font-family:"Helvetica 55 Roman"; src:url('fonts/HelveticaNeue-Bold.otf') format("truetype"); }
+@font-face {font-family:"Helvetica 35 Thin"; src:url('fonts/HelveticaNeue-Thin.otf') format("truetype"); }
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+button
+{
+    
+    background-image: url('../image/4545.png');
+    background-color: transparent;
+    background-repeat:round;
+    height: auto;
+    background-size: 100%;
+   font-family: "Helvetica 55 Roman", sans-serif;
+   color: white;
+   border: none;
+   padding: 6px;
+   padding-left: 11px;
+   margin-top: 9px;
+   padding-right: 9px;
+font-size: 1.7em;
+}
+.title{
+    font-family:  Arial, Helvetica, sans-serif;
+    line-height: 4.1;
+    text-align: center;
+    font-weight: bold;
+}
+.registro p{
+    font-family:"Helvetica 55 Roman", sans-serif;
+    font-size: 1.7em;
+}
+body {
+	background-color: rgb(25,36,67);
+        font-family:"Helvetica 55 Roman", sans-serif;
+}
+.imgtrau{
+    width: 550px;
+    display:inline-block;
+    
+}
+
+.pand
+{
+    width: 5%;
+    display:inline-block;
+}
+.Trau{
+   background-color:rgba(255,255,255,0.7);
+   width: 100%;
+   height:235px;
+   margin-top:80px;
+display: -webkit-inline-box;
+text-align: -webkit-right;
+}
+.bloque0{
+    width: 100%
+}
+.imgbloque0{
+    height: 70px;
+    width: 100%
+}
+.imgpolla{
+    position: absolute;
+    width: 590px;
+    top: 103px;;
+}
+.bloque1{
+    background-image: url('../image/1071.png');
+    background-repeat: no-repeat;
+    height: auto;
+    background-size: 100%;
+    margin-top: -6px;
+    background-position: 0px -70px
+}
+span{
+    font-weight: bold;
+}
+.premioContent{
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+}
+.mecanica{
+    width: 40%;
+    padding-left: 70px;
+    padding-right: 40px;
+    float: left;
+    margin-top: 65px;
+}
+.imgpremio{
+    width: 70%;
+    margin-top: 5px;
+}
+.politica{
+    width: 40%;
+    padding-left: 1%;
+    float: right;
+    margin-top: 65px;
+    padding-right: 5%;
+   
+}
+
+.registro{
+    width: 48%;
+    display: inline-block;
+    margin-top: 40px;
+    margin-bottom:40px;
+    padding-top: 140px;
+    padding-bottom: 254px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+}
+.borde{
+    border-right: 2px solid rgba(255,255,255,0.5);
+}
+.terms{
+    
+}
+.pie
+{
+    position: absolute;
+left:80px;
+top:985px;    
+    width: 410px;
+}
+.pieLogo
+{
+    width: 200px;
+    position: relative
+}
+.leftPieLogo
+{
+    left: -200px;
+   
+}
+.pie2
+{
+
+margin-left: 300px;
+
+}
+.pieLogo2
+{
+    width: 200px;
+   
+}
+.leftPieLogo2
+{
+   
+    left: -100px;
+   
+}
+.terminos
+{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.subrayado {
+
+    text-decoration: underline;
+   
+}
+
+#b2 {
+    display: none;
+}
+
+a {
+    text-decoration: underline;
+    color: rgb(0,255,255);
+}
+
+.up {
+    z-index: 100;
+}
+
+
+.image7297 {
+    position: absolute;
+    left: 1123px;
+    top:370px;
+    height:565px;
+    width: 243px;
+    
+}
+
+
+
+.r2 {
+    margin-left: 700px;
+    margin-top: 
+}
+
+input {
+    background-image: url('../image/3889.png');
+    background-size: 100%;
+    background-repeat: round;
+    background-color: transparent;
+     border: none;
+    color:rgb(128,128,128);
+    font-size: 1.4em;
+    width: 17.4em;
+    padding-left: 1em;
+    padding-top: 1.20em;
+     padding-bottom: 1.20em;
+    padding-right: 0.2em;
+    
+}
+
+#cedula {
+    position: absolute;
+    top:608px;
+    left: 705px;
+
+}
+
+.textingreso {
+position: absolute;
+    top: 450px;
+    left:715px;
+    font-size: 1.5em;
+    
+}
+
+#cedula2{
+     position: absolute;
+    top:520px;
+    left: 705px;
+}
+
+#token2 {
+     position: absolute;
+      top:547px;
+    left: 795px;
+    width: 300px;
+    height: 24px;
+   color:#000;
+}
+#token {
+     position: absolute;
+      top:677px;
+    left: 795px;
+    width: 300px;
+    height: 23px;
+   color:#000;
+}
+
+.enviar {
+    position: absolute;
+        top:900px;
+    left: 900px;
+}
+
+.ajuste {
+    height: 610px;
+    color: #fff;
+}
+
+.textingresocod2 {
+ 
+position: absolute;
+    top: 500px;
+    left:800px;
+    font-size: 1.5em;
+   
+}
+
+.textreg {
+      position: absolute;
+        top:790px;
+    left: 810px;
+}
+
+
+
+.enviar2 {
+     position: absolute;
+        top:700px;
+    left: 900px;
+}
+
+#nombre {
+     position: absolute;
+    top:518px;
+    left: 705px;
+}
+
+#mail {
+     position: absolute;
+    top:698px;
+    left: 705px;
+}
+
+.textingresocod {
+    position: absolute;
+    top: 640px;
+    left:805px;
+    font-size: 1.5em;
+}
+
+
